@@ -6,7 +6,8 @@ Run 自瞄测试.py The program will first prompt you to select a model configur
 Toggle assist function: V  
 Aim point offset: Arrow keys (may not work) ⚠️  
 Sensitivity adjustment: - / + (adjust to suit different games)  
-Toggle GUI display: .
+Toggle GUI display: .  
+Turn on aiming:Right or left mouse button
 ## Sample Configuration File (YAML format, similar to X-AnyLabeling)
 type: yolov5  
 name: yolov5s-onnx-r20250726  
