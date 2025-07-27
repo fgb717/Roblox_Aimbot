@@ -1,0 +1,16 @@
+type: yolov5
+name: yolov5s-pt-r20250726
+display_name: YOLOv5s PyTorch
+model_path: C:/Users/Administrator/Desktop/exp/weights/best.pt
+input_width: 640
+input_height: 640
+stride: 32
+nms_threshold: 0.45
+confidence_threshold: 0.45
+classes:
+- body
+version: '1.0'
+pt_config: C:/Users/Administrator/Desktop/dataset.yaml
+preprocess:
+  scale: 0.00392156862745098
+  swap_rgb: true
