@@ -7,7 +7,7 @@ Toggle assist function: V
 Aim point offset: Arrow keys (may not work) ⚠️  
 Sensitivity adjustment: - / + (adjust to suit different games)  
 Toggle GUI display: .  
-Turn on aiming:Right or left mouse button
+Turn on aiming:Long press the left or right mouse button
 ## Sample Configuration File (YAML format, similar to X-AnyLabeling)
 type: yolov5  
 name: yolov5s-onnx-r20250726  
